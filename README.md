@@ -1,5 +1,4 @@
 -  Hi, I’m JEET Patel.
-- 👀 I’m interested in Web Development , Web Designing
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development
+- - 🌱 I’m currently learning FULL STACK DEVELOPMENT 
 - 📫 How to reach me jeetdadhaniya4@gmail.com
